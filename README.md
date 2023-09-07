@@ -46,6 +46,7 @@ loan risky status 0.84 0.99 0.91 619
        weighted avg       0.99      0.99      0.99     19384
 
 Summary
+
 Both machine learning models, the original logistic regression model, and the logistic regression model with resampled training data, performed exceptionally well in predicting credit risk.
 
 The balanced accuracy scores for both models were high, indicating strong overall performance.
